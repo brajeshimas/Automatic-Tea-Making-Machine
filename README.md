@@ -53,6 +53,8 @@ A microcontroller-based automatic machine that can prepare and serve tea or coff
 This project is for **educational and portfolio purposes only**.  
 Please do not copy or redistribute the code or design without permission.
 
+## 📸 Project Sponsered by
+![](Images/Sponseredby.jpg) 
 
-## 📸 Project Images
-![](images/img1.jpg) 
+## 📸 Project Title
+![](Images/Title.jpg) 
