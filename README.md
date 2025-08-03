@@ -15,30 +15,6 @@ A microcontroller-based automatic machine that can prepare and serve tea or coff
 - ⚙️ Fully automatic from input to cup serving
 
 ---
-
-## 📁 Folder Structure
-
-```
-Automatic-Tea-Making-Machine/
-├── code/
-│   ├── HardwareCode/     # Low-level drivers (motors, sensors)
-│   ├── ArduinoProject/   # Arduino sketch files
-│   └── UserCode/         # Application logic for tea/coffee making
-├── images/               # Development and hardware images
-└── README.md             # Project documentation
-```
-
----
-
-## 📸 Project Images
-
-| Preparation Stage | Brewing Mechanism | Dispensing Cups | Ingredient Flow | Final Output |
-|-------------------|-------------------|------------------|------------------|---------------|
-| ![](images/img1.jpg) | ![](images/img2.jpg) | ![](images/img3.jpg) | ![](images/img4.jpg) | ![](images/img5.jpg) |
-
-
----
-
 ## 🔧 Technologies Used
 
 - 🧠 Arduino UNO
@@ -76,3 +52,7 @@ Automatic-Tea-Making-Machine/
 
 This project is for **educational and portfolio purposes only**.  
 Please do not copy or redistribute the code or design without permission.
+
+
+## 📸 Project Images
+![](images/img1.jpg) 
